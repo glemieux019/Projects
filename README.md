@@ -1,4 +1,4 @@
-# PROJECTNAME
+# PROJECTS
 
 ## Objective
 [Brief Objective - Remove this afterwards]
